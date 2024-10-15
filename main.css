@@ -1,0 +1,21 @@
+p {
+    font-size: large;
+ 
+}
+
+p:hover {
+    color: blue;
+}
+
+p::first-letter {
+    font-size: xx-larges;
+
+    }    
+
+.hello {
+    background-color: aquamarine;
+}
+
+#world {
+    font-family: 'Courier New', Courier, monospace;
+}
