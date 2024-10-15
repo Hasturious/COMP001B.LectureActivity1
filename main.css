@@ -1,21 +1,22 @@
+/*type*/
 p {
     font-size: large;
  
 }
-
+/*pseudo-class*/
 p:hover {
     color: blue;
 }
-
+/*pseudo-elemet*/
 p::first-letter {
     font-size: xx-large;
 
     }    
-
+/*class*/
 .hello {
     background-color: aquamarine;
 }
-
+/*id*/
 #world {
     font-family: 'Courier New', Courier, monospace;
 }
