@@ -7,7 +7,7 @@ p {
 p:hover {
     color: blue;
 }
-/*pseudo-elemet*/
+/*pseudo-element*/
 p::first-letter {
     font-size: xx-large;
 
